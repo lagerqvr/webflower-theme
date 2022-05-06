@@ -1,8 +1,12 @@
 /*
  Theme Name:   WebFlower
- Description:  Child theme of generatepress
+ Description:  WebFlower Official theme. Child theme of generatepress
  Author:       Robin Mildh, Rasmus Lagerqvist
  Template:     generatepress
  Version:      1.0.0
  Text Domain:  webflower-child
 */
+
+* {
+    color: red;
+}
