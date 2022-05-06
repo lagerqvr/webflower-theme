@@ -14,8 +14,22 @@
     letter-spacing: -0.5px;
 }
 
+body {
+    background-color: #2ecc70a0;
+}
+
+.site-header {
+    background-color: #27ae5fac;
+}
+
+.main-navigation {
+    background-color: #27ae5fac;
+    border-radius: 5px;
+}
+
 .widget, .inside-article {
     border-radius: 5px;
+    border: 1px black;
 }
 
 .site-info {
@@ -33,5 +47,18 @@
 }
 
 a {
+    text-decoration: none;
+    color: #249d56fd;
+}
+
+.attachment-post-thumbnail {
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+}
+
+.wp-block-post-title {
+    color: #249d56fd;
+    margin-top: 20px;
     text-decoration: none;
 }
