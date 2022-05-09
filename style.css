@@ -71,3 +71,7 @@ a {
     color: #22ff97 !important;
     font-weight: bold;
 }
+
+.main-nav ul li:not([class*="current-menu-"]):hover > a {
+    color: #22ff97 !important;
+}
