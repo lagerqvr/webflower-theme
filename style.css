@@ -57,6 +57,10 @@ a {
     width: 300px;
 }
 
+.attachment-woocommerce_thumbnail, .size-woocommerce_thumbnail {
+    border-radius: 5px;
+}
+
 .wp-block-post-title {
     color: #249d56fd;
     margin-top: 20px;
