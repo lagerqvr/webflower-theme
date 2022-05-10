@@ -1,3 +1,3 @@
-# wdbcms22 - Project 2
+# WebFlower-theme
 
-Child theme for Wordpress project. Inherits GeneratePress theme.
+Child theme for WordPress. Made as a child theme for the GeneratePress parent theme.
